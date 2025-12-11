@@ -1,0 +1,29 @@
+# Flask and Web Framework
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+Flask-CORS==4.0.0
+
+# Database
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.23
+
+# PostGIS and Geospatial
+GeoAlchemy2==0.14.2
+Shapely==2.0.2
+
+# Geocoding (optional)
+geopy==2.4.1
+
+# Clustering
+scikit-learn==1.3.2
+numpy==1.26.2
+
+# Production Server
+gunicorn==21.2.0
+
+# Environment management
+python-dotenv==1.0.0
+
+# Testing
+pytest==7.4.3
+pytest-flask==1.3.0
